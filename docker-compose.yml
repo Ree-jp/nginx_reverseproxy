@@ -1,5 +1,5 @@
 version: '3'
-service:
+services:
   reverse-proxy:
     image: nginx:latest
     volumes:
